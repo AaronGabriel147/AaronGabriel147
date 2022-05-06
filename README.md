@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-be-a)
 
-- 📫 How to reach me **aarongabriel147@gmail.com**
+- 📫 How to reach me [email](aarongabriel147@gmail.com)
 
 - 📄 Resume: 
  [https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
