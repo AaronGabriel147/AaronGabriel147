@@ -7,7 +7,7 @@
 - 📄 Resume: 
  [https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
  
- - 💬 Ask me about 
+ - 💬 # Ask me about: 
  - **Front end**: 
   HTML JavaScript CSS Material UI React Redux Context API Thunk Yup 
  - **Backend**: 
