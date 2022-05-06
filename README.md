@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Wed Developement</h3>
+<h3 align="center">Full Stack Wed Developer</h3>
 
 - 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-be-a)
 
