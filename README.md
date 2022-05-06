@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-be-a)
 
 - 📄 Resume: 
- [https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
+ [Google Docs Resume](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
  
  - <h3 align="left">💬 Ask me about:</h3> 
  - **Front end**: 
