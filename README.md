@@ -9,11 +9,11 @@
  - **Front end**: 
   JavaScript, CSS, Material UI, React, Redux, Context API, Thunk, Yup 
  - **Backend**: 
-  Node, Express, SQL, PostgreSQL, Knex 
+  Node.js, Express, SQL, PostgreSQL, Knex, Jest testing 
  - **Deployment**:
   Heroku, Vercel, 
   - **Misc**: 
-  Git, Python, CS algorithms
+  Git CLI, Python, CS algorithms, Docker, Postgres
 
 <p align="left">
 </p>
