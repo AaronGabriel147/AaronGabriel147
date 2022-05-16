@@ -13,7 +13,7 @@
  - **Deployment**:
   Heroku, Vercel, 
   - **Misc**: 
-  Git CLI, Python, CS algorithms, Docker, Postgres
+  Git CLI, Python, CS algorithms, Docker
 
 <p align="left">
 </p>
