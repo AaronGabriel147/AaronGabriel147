@@ -7,13 +7,13 @@
  
  - <h3 align="left">💬 Ask me about:</h3> 
  - **Front end**: 
-  JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup 
+  JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
  - **Backend**: 
-  Node.js, Express, SQL, PostgreSQL, Knex, Jest SuperTest 
+  Node.js, Express, SQL, PostgreSQL, Knex, Jest Mock SuperTest 
  - **Deployment**:
   Heroku, Vercel, 
-  - **Misc**: 
-  Git CLI, Python, CS algorithms, Docker
+  - **Other**: 
+  Git CLI, Python, CS algorithms, Docker, Photoshop, Trello
 
 <p align="left">
 </p>
