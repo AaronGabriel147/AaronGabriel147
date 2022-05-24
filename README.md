@@ -9,7 +9,7 @@
  - **Front end**: 
   JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
  - **Backend**: 
-  Node.js, Express, SQL, PostgreSQL, Knex, Jest Mock SuperTest 
+  Node.js, Express, SQL, PostgreSQL, Knex, Jest Mock tests, JSON Web Tokens, Bcrypt password hashing
  - **Deployment**:
   Heroku, Vercel, 
   - **Other**: 
