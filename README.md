@@ -1,7 +1,7 @@
 <h3 align="center">Aaron Gabriel - Full Stack Web Developer</h3>
 
 - 📄 Resume: 
- [Google Docs Resume](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
+ [Google Docs](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
  
 
 - 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-be-a)
