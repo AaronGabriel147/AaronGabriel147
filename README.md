@@ -2,18 +2,24 @@
 
 - 📄 Resume: 
  [Google Docs Resume](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
+ 
 
 - 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-be-a)
+- 
  
  - <h3 align="left">Technical Experience:</h3> 
  - **Front end**: 
   JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
+ 
  - **Backend**: 
   Node.js, Express, SQL, PostgreSQL, Knex, Jest Mock tests, JSON Web Tokens, Bcrypt password hashing 
+  
   - **Other**: 
   Git CLI, Python, CS algorithms, Docker, Photoshop, Trello, Heroku, Vercel
-  - **Methodologies**:
+ 
+ - **Methodologies**:
    Agile development, SCRUM meetings, interacting with stakeholders, Technical Project Manager, testing, databases, RESTful API's, password hashing, tokens, cookies, deployment
+
 
 <p align="left">
 </p>
