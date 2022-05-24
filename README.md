@@ -12,7 +12,7 @@
   JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
  
  - **Backend**: 
-  Node.js, Express, SQLite, PostgreSQL, Knex, Jest Mock tests, Bcrypt, JSON Web Tokens
+  Node.js, Express, SQLite, PostgreSQL, Knex, Jest, Bcrypt, JSON Web Tokens
   
   - **Other**: 
   Git CLI, Python, CS algorithms, Docker, Photoshop, Trello, Heroku, Vercel
