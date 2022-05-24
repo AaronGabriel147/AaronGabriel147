@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-be-a)
 
  
- - <h3 align="left">Technical Experience - Languages, Frameworks, Libraries, and Tools:</h3> 
+ - <h3 align="left">Technical Experience:</h3> 
  - **Front end**: 
   JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
  
