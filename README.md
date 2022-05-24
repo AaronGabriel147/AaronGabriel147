@@ -14,6 +14,8 @@
   Heroku, Vercel, 
   - **Other**: 
   Git CLI, Python, CS algorithms, Docker, Photoshop, Trello
+  - **Methodologies**:
+   Agile development, SCRUM meetings, interacting with stakeholders, Technical Project Manager, testing, databases, RESTful API's, password hashing, tokens, cookies, deployment
 
 <p align="left">
 </p>
