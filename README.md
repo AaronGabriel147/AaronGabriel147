@@ -5,7 +5,7 @@
 - 📄 Resume: 
  [Google Docs Resume](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
  
- - <h3 align="left">💬 Ask me about:</h3> 
+ - <h3 align="left">Technical Experience:</h3> 
  - **Front end**: 
   JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
  - **Backend**: 
