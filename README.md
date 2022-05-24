@@ -9,11 +9,9 @@
  - **Front end**: 
   JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
  - **Backend**: 
-  Node.js, Express, SQL, PostgreSQL, Knex, Jest Mock tests, JSON Web Tokens, Bcrypt password hashing
- - **Deployment**:
-  Heroku, Vercel, 
+  Node.js, Express, SQL, PostgreSQL, Knex, Jest Mock tests, JSON Web Tokens, Bcrypt password hashing 
   - **Other**: 
-  Git CLI, Python, CS algorithms, Docker, Photoshop, Trello
+  Git CLI, Python, CS algorithms, Docker, Photoshop, Trello, Heroku, Vercel
   - **Methodologies**:
    Agile development, SCRUM meetings, interacting with stakeholders, Technical Project Manager, testing, databases, RESTful API's, password hashing, tokens, cookies, deployment
 
