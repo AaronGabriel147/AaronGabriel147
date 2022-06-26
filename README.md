@@ -4,7 +4,7 @@
  [Google Docs](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
  
 
-- 🔭 I’m currently working on [The Stoics (Work in progress deployment](https://thestoics.netlify.app/) & [The Stoics (First Figma Prototype)](https://www.figma.com/proto/1ilZj7gIRRZy6RAZNFXHTp/Stoics?page-id=0%3A1&node-id=13%3A78&viewport=-661%2C522%2C0.71&scaling=min-zoom)
+- 🔭 I’m currently working on [The Stoics (Work in progress deployment](https://thestoics.netlify.app/)
 
  
  - <h3 align="left">Technical Experience:</h3> 
