@@ -9,16 +9,16 @@
  
  - <h3 align="left">Technical Experience:</h3> 
  - **Front end**: 
-  JavaScript, React, Redux, Context API, CSS, Material UI, Thunk, Yup, Axios
+  HTML, JavaScript, CSS, React, Redux, Context API, Jest Mock Testing
  
  - **Backend**: 
-  Node.js, Express, SQLite, PostgreSQL, Knex, Jest, Bcrypt, JSON Web Tokens
+  Node.js, Express, SQL, Knex, Jest Mock Testing, Middleware, JSON Web Tokens
   
   - **Other**: 
-  Git CLI, Python, CS algorithms, Docker, Photoshop, Trello, Heroku, Vercel
+  Git CLI, Python, CS Algorithms, Docker, Photoshop
  
  - **Methodologies**:
-   Agile development, scrum master, interacting with stakeholders, Technical Project Manager, testing, databases, RESTful API's, password hashing, tokens, cookies, deployment
+   Agile development, Scrum Master, Interacting with Stakeholders, Technical Project Manager, Kanban Boards, Testing, Databases, RESTful API's, CRUD apps, Password Hashing, Tokens, Cookies, Authentication, Asynchronous Programming, Frontend & Backend Deployment
 
 &nbsp;
 
