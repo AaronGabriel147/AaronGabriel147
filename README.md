@@ -15,10 +15,10 @@
   Node.js, Express, SQL, Knex, Jest Mock Testing, Middleware, JSON Web Tokens
   
   - **Other**: 
-  Git CLI, Python, CS Algorithms, Docker, Photoshop
+  Git CLI, Python, CS Algorithms, Docker, Photoshop, Figma Prototyping
  
  - **Methodologies**:
-   Agile development, Scrum Master, Interacting with Stakeholders, Technical Project Manager, Kanban Boards, Testing, Databases, RESTful API's, CRUD apps, Password Hashing, Tokens, Cookies, Authentication, Asynchronous Programming, Frontend & Backend Deployment
+   Agile development, Scrum Master, Interacting with Stakeholders, Technical Project Manager, Kanban Boards, Databases, RESTful API's, CRUD apps, Password Hashing, Tokens, Cookies, Authentication, Asynchronous Programming, Testing, Frontend & Backend Deployment
 
 &nbsp;
 
