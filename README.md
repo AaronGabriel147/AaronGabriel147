@@ -8,7 +8,7 @@
 
  
  - <h3 align="left">Technical Experience:</h3> 
- - **Front end**: 
+ - **Frontend**: 
   HTML, JavaScript, CSS, React, Redux, Context API, Jest Mock Testing
  
  - **Backend**: 
