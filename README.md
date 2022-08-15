@@ -7,7 +7,8 @@
  [Google Docs](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
  
 
-- 🔭 I’m currently working on [The Stoics (work in progress) - A web app of ancient Stoic philosophy.](https://thestoics.netlify.app/)
+- 🔭 I’m currently working on [The Stoics - A web app of ancient Stoic philosophy](https://thestoics.netlify.app/), and I am also working on [my portfolio](https://aaron-gabriels-portfolio.vercel.app/)
+
 
  
  - <h3 align="left">Technical Experience:</h3> 
