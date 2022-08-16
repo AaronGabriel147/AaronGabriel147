@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif"  height="300" />
+<img src="https://miro.medium.com/max/1400/1*OF0xEMkWBv-69zvmNs6RDQ.gif"  height="250" />
 </p>
 <h3 align="center">Aaron Gabriel - Full Stack Web Developer</h3>
 
