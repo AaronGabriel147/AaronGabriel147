@@ -3,8 +3,7 @@
 </p>
 <h3 align="center">Aaron Gabriel - Full Stack Web Developer</h3>
 
-- 📄 Resume: 
- [Google Docs](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
+- 📄 [Resume](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
  
 
 - 🔭 [My portfolio](https://aaron-gabriels-portfolio.vercel.app/)
