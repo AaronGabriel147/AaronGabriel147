@@ -8,6 +8,11 @@
 
 - 🔭 [My portfolio](https://aaron-gabriels-portfolio.vercel.app/)
 
+- 📷 Currently working on a Firebase storage [image gallery app](https://firebase-storage-three.vercel.app/)
+
+
+
+
 
  
  - <h3 align="left">Technical Experience:</h3> 
