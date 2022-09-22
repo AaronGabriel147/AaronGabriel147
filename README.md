@@ -8,7 +8,7 @@
 
 - 🔭 [My portfolio](https://aaron-gabriels-portfolio.vercel.app/)
 
-- 📷 Currently working on a Firebase storage [image gallery app](https://firebase-storage-three.vercel.app/)
+- 📷 Currently working on/recently finished: A Firebase storage [image gallery app](https://firebase-storage-three.vercel.app/), and a [reddit API](https://react-ts-avhpwa.stackblitz.io) that fetches data from r/space and displays the images and titles.
 
 
 
