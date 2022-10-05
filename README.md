@@ -8,7 +8,7 @@
 
 - 🔭 [My portfolio](https://aaron-gabriels-portfolio.vercel.app/)
 
-- 📷 Currently working on/recently finished: A Firebase storage [image gallery app](https://firebase-storage-three.vercel.app/), and a [reddit API](https://lurker-five.vercel.app/) that fetches data from r/space and displays the images and titles.
+- 📷 Currently working on/recently finished: A Firebase storage [image gallery app](https://firebase-storage-three.vercel.app/), and a [reddit API](https://lurker-five.vercel.app/) that fetches live data from reddit..
 
 
 
