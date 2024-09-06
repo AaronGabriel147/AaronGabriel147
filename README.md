@@ -8,7 +8,6 @@
 
 - 🔭 [My portfolio](https://project-gallery-dun.vercel.app/)
 
-- 📷 Currently working on/recently finished: A Firebase storage [image gallery app](https://firebase-storage-three.vercel.app/), and ['Lurker'](https://lurker-five.vercel.app/) a React web app that fetches live data from reddit.
 
 
 
