@@ -25,7 +25,7 @@
   Git CLI, Python, CS Algorithms, Docker, Photoshop, Figma Prototyping
  
  - **Methodologies**:
-   Agile development, Scrum Master, Interacting with Stakeholders, Technical Project Manager, Kanban Boards, Databases, RESTful API's, CRUD apps, Password Hashing, Tokens, Cookies, Authentication, Asynchronous Programming, Testing, Frontend & Backend Deployment - 🔭 [My portfolio](https://project-gallery-dun.vercel.app/)
+   Agile development, Scrum Master, Interacting with Stakeholders, Technical Project Manager, Kanban Boards, Databases, RESTful API's, CRUD apps, Password Hashing, Tokens, Cookies, Authentication, Asynchronous Programming, Testing, Frontend & Backend Deployment 🔭 [My portfolio](https://project-gallery-dun.vercel.app/)
 
 &nbsp;
 
