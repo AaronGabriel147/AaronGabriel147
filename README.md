@@ -6,7 +6,7 @@
 <!-- - 📄 [Resume](https://docs.google.com/document/d/1tt9MOVI4db-25tNXn_4yDgOL5-AhmdSYlWrQLsCRyj0/edit?usp=sharing)
   -->
 
-- 🔭 [My portfolio](https://project-gallery-dun.vercel.app/)
+
 
 
 
@@ -16,7 +16,7 @@
  
  - <h3 align="left">Technical Experience:</h3> 
  - **Frontend**: 
-  HTML, JavaScript, CSS, React, Redux, Context API, Jest Mock Testing
+  HTML, JavaScript, HTML, CSS, React, Shopify Liquid
  
  - **Backend**: 
   Node.js, Express, SQL, Knex, Jest Mock Testing, Middleware, JSON Web Tokens
@@ -25,7 +25,7 @@
   Git CLI, Python, CS Algorithms, Docker, Photoshop, Figma Prototyping
  
  - **Methodologies**:
-   Agile development, Scrum Master, Interacting with Stakeholders, Technical Project Manager, Kanban Boards, Databases, RESTful API's, CRUD apps, Password Hashing, Tokens, Cookies, Authentication, Asynchronous Programming, Testing, Frontend & Backend Deployment
+   Agile development, Scrum Master, Interacting with Stakeholders, Technical Project Manager, Kanban Boards, Databases, RESTful API's, CRUD apps, Password Hashing, Tokens, Cookies, Authentication, Asynchronous Programming, Testing, Frontend & Backend Deployment - 🔭 [My portfolio](https://project-gallery-dun.vercel.app/)
 
 &nbsp;
 
