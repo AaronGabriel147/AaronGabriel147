@@ -16,7 +16,7 @@
  
  - <h3 align="left">Technical Experience:</h3> 
  - **Frontend**: 
-  HTML, JavaScript, HTML, CSS, React, Shopify Liquid
+    JavaScript, HTML, CSS, React, Shopify Liquid
  
  - **Backend**: 
   Node.js, Express, SQL, Knex, Jest Mock Testing, Middleware, JSON Web Tokens
